@@ -1,4 +1,3 @@
 <container xmlns="https://openstax.org/namespaces/book-container" version="1">
-    <book slug="principles-management"      collection-id="col28330" style="principles-management" href="../collections/principles-management.collection.xml" />
-    <book slug="organizational-behavior"    collection-id="col29124" style="principles-management" href="../collections/organizational-behavior.collection.xml" />
+    <book slug="derived-copy-of-organizational-behavior" collection-id="col30687" href="../collections/derived-copy-of-organizational-behavior.collection.xml" />
 </container>
